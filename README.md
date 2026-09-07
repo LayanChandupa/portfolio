@@ -21,7 +21,7 @@ I create high-quality AI-generated visuals, YouTube thumbnails, websites, and cu
 
 <p align="center">
   <img src="Brew_and_Bloom_cafe_poster_2K_202609071731.jpeg" width="45%">
-  <img src="Hand_holding_membership_card_2K_202609071733.jpeg" width="45%">
+  <img src="Mango_juice_advertising_poster_design_2K_202609071731.jpeg" width="45%">
 </p>
 
 <p align="center">
@@ -29,9 +29,6 @@ I create high-quality AI-generated visuals, YouTube thumbnails, websites, and cu
   <img src="Lion_head_personal_logo_design_2K_202609071733.jpeg" width="45%">
 </p>
 
-<p align="center">
-  <img src="Mango_juice_advertising_poster_design_2K_202609071731.jpeg" width="45%">
-</p>
 
 Custom AI-generated images for social media, websites, advertisements, and creative projects.
 
