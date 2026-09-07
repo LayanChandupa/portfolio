@@ -33,11 +33,16 @@ I create high-quality AI-generated visuals, YouTube thumbnails, websites, and cu
 Custom AI-generated images for social media, websites, advertisements, and creative projects.
 
 #### 🖼️ YouTube Thumbnail Design
-
+<p align="center">
+  <img src="Developer_pointing_at_laptop_screen_2K_202609071743.jpeg" width="45%">
+  <img src="Web_development_project_showcase_2K_202609071743.jpeg" width="45%">
+</p>
 Eye-catching thumbnails designed to attract viewers and improve click-through rates.
 
 #### 📊 AI Marks Analyzer
-
+<p align="center">
+  <img src="AI_market_analysis_dashboard_2K_202609071743.jpeg" width="80%">
+</p>
 A student performance dashboard for analyzing marks and visualizing subject performance.
 
 #### 🌐 Web Projects
