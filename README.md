@@ -35,7 +35,7 @@ Custom AI-generated images for social media, websites, advertisements, and creat
 #### 🖼️ YouTube Thumbnail Design
 <p align="center">
   <img src="Developer_pointing_at_laptop_screen_2K_202609071743.jpeg" width="45%">
-  <img src="Web_development_project_showcase_2K_202609071743.jpeg" width="45%">
+  <img src="Web_development_project_showcase…_2K_202609071743.jpeg" width="45%">
 </p>
 Eye-catching thumbnails designed to attract viewers and improve click-through rates.
 
