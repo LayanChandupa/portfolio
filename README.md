@@ -21,7 +21,7 @@ I create high-quality AI-generated visuals, YouTube thumbnails, websites, and cu
 
 <p align="center">
   <img src="Brew_and_Bloom_cafe_poster_2K_202609071731.jpeg" width="45%">
-  <img src="Mango_juice_advertising_poster_design_2K_202609071731.jpeg" width="45%">
+  <img src="Mango_juice_advertising_poster_d…_2K_202609071731.jpeg" width="45%">
 </p>
 
 <p align="center">
