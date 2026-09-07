@@ -41,7 +41,7 @@ Eye-catching thumbnails designed to attract viewers and improve click-through ra
 
 #### 📊 AI Marks Analyzer
 <p align="center">
-  <img src="AI_market_analysis_dashboard_2K_202609071743.jpeg" width="80%">
+  <img src="AI_market_analysis_dashboard_dis…_2K_202609071743.jpeg" width="80%">
 </p>
 A student performance dashboard for analyzing marks and visualizing subject performance.
 
